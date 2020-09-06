@@ -10,6 +10,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.yasukotelin.notelightjetbrains.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.yasukotelin.notelightjetbrains.services.MyProjectService"/>
+        <themeProvider id="505a86d2-f800-49c7-ba34-566a7f874d1b" path="/notelight.theme.json"/>
     </extensions>
 
     <projectListeners>

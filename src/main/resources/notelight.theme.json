@@ -1,0 +1,12 @@
+{
+  "name": "notelight",
+  "dark": false,
+  "author": "yasukotelin",
+  "editorScheme": "/notelight.xml",
+  "ui": {
+    "Editor.background": "#FFFFFF",
+    "Editor.foreground": "#000000",
+
+    "EditorPane.background": "#FFFFFF",
+    "EditorPane.foreground": "#000000"
+  }}
