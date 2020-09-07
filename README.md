@@ -34,3 +34,13 @@ notelight is good contrast light theme for JetbrainsIDE!
 Plugin based on the [IntelliJ Platform Plugin Template][template].
 
 [template]: https://github.com/JetBrains/intellij-platform-plugin-template
+
+## Development
+
+### Build
+
+```
+./gradlew buildPlugin
+```
+
+Generated plugin zip file to `./build/distributions/notelight-jetbrains-x.y.z.zip`
